@@ -20,11 +20,11 @@ export const sidebarLinks = [
       route: '/recordings',
       label: 'Recordings',
     },
-    {
-      imgURL: '/icons/add-personal.svg',
-      route: '/personal-room',
-      label: 'Personal Room',
-    },
+    // {
+    //   imgURL: '/icons/add-personal.svg',
+    //   route: '/personal-room',
+    //   label: 'Personal Room',
+    // },
   ];
   
   export const avatarImages = [
